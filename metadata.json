@@ -1,0 +1,6 @@
+{
+  "name": "ألغاز مجنونة",
+  "description": "تطبيق ألغاز شيق وكلمات متقاطعة مع أكثر من 200 مستوى، مكافآت يومية، متجر ثيمات، مهام ذكية وتحقق بالذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
